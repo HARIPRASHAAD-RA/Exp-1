@@ -1,9 +1,17 @@
 # Exp-1 ATM & BANKING SYSTEM
 
 # AIM:
+To draw the UML diagram for ATM and Banking System.
 
 # SRS (Procedure):
+List of Programs:
 
+Usecase Diagram
+Class Diagram
+Activity Diagram
+Communication Diagram
+Package Diagram
+Sequence Diagram
 # DIAGRAMS:
 #### USECASE DIAGRAM :
 ![UseCaseDiagram1](https://github.com/user-attachments/assets/1ca7e543-3c9c-4b65-b99d-82635dddfe12)
@@ -24,3 +32,4 @@
 ![PackageDiagram1](https://github.com/user-attachments/assets/d3837aaf-15fe-4854-8112-a7665e3ff988)
 
 # RESULT:
+Thus the program is verified successfully.
